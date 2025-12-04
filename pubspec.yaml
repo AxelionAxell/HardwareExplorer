@@ -1,0 +1,46 @@
+name: basic_computer
+description: "For PJBL SMK Negeri 4 XI DKV B"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  # Note: Jika error SDK version, ubah menjadi: '>=3.0.0 <4.0.0'
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  convex_bottom_bar: ^3.2.0
+  image_picker: ^1.2.1
+  shared_preferences: ^2.5.3
+  url_launcher: ^6.3.2
+  http: ^1.6.0
+  flutter_markdown: ^0.7.7+1
+
+  cupertino_icons: ^1.0.8
+  get: ^4.7.3
+  google_fonts: ^6.3.3
+  rename: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon/icons.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/app_icon/
+    - assets/Module 2/
+    - assets/Module 3/
+    - assets/Module 4/
