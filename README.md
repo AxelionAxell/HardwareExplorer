@@ -19,16 +19,16 @@ Singkatnya, HardwareExplorer hadir sebagai alat belajar yang lebih praktis, meny
 -   **User-Friendly Interface:** UI sederhana dan intuitif dirancang untuk memudahkan pemahaman.
 -   **Flutter Based:** Kompatibilitas lintas platform dengan dukungan Android, iOS, dan Web.
 
-## Prerequisites & Dependencies
+## Prasyarat & Ketergantungan
 
-Before you begin, ensure you have the following installed:
+Sebelum memulai, pastikan Anda telah menginstal yang berikut ini:
 
 -   **Flutter SDK:** [Install Flutter](https://flutter.dev/docs/get-started/install)
 -   **Dart SDK:** Comes bundled with Flutter SDK.
 -   **Android Studio/Xcode:** For building native Android/iOS apps (optional if only using web).
 -   **Web Browser:** For web development and testing.
 
-## Installation & Setup Instructions
+## Petunjuk Instalasi & Insturksi
 
 1.  **Clone the repository:**
 
@@ -65,17 +65,17 @@ Before you begin, ensure you have the following installed:
         flutter run -d chrome
         ```
 
-## Usage Examples & API Documentation
+## Contoh Penggunaan & Dokumentasi API
 
-This project primarily focuses on UI/UX and educational content. There are no external APIs used. The application is designed to be intuitive; navigate through the different modules to access the learning material and quizzes.
+Proyek ini terutama berfokus pada UI/UX dan konten edukasi. Tidak ada API eksternal yang digunakan. Aplikasi ini dirancang agar intuitif; navigasikan melalui berbagai modul untuk mengakses materi pembelajaran dan kuis.
 
-## Configuration Options
+## Opsi Konfigurasi
 
-Currently, there are no specific configuration options available. The application is designed to work out-of-the-box.
+Saat ini, belum ada opsi konfigurasi khusus yang tersedia. Aplikasi ini dirancang untuk langsung berfungsi.
 
 ## Contributing Guidelines
 
-Contributions are welcome! Here's how you can contribute:
+Kontribusi diterima! Berikut cara Anda dapat berkontribusi:
 
 1.  **Fork the repository.**
 2.  **Create a new branch** (`git checkout -b feature/your-feature`).
@@ -84,19 +84,13 @@ Contributions are welcome! Here's how you can contribute:
 5.  **Push to the branch** (`git push origin feature/your-feature`).
 6.  **Create a new Pull Request.**
 
-## License Information
-
-This project does not currently have a specified license. All rights are reserved by the owner.
-
 ## Contact
 
 Banyu Sejati (AxelionAxell) - [Instagram](https://www.instagram.com/axelionnaxell/) - banyusejati14@gmail.com
 
 Project Link: [Hardware Exploler](https://github.com/AxelionAxell/HardwareExplorer)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Ucapan Terima Kasih
 
-## Acknowledgments
-
-*   Flutter Team - For providing a great framework for building cross-platform apps.
-*   SMK Negeri 4 Malang - For the PJBL assignment that inspired this project.
+*   Axelionaxell - Untuk menyediakan kerangka kerja hebat untuk membangun aplikasi lintas-platform.
+*   SMK Negeri 4 Malang - Untuk tugas Project Based Learning (PJBL) yang menginspirasi proyek ini.
