@@ -1,10 +1,6 @@
-<div align="center">
-    
 # HardwareExplorer
 
 Flutter Project PAS XI DKV B SMK Negeri 4 Malang
-
-<p>
     
 ## Project Overview
 
