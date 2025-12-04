@@ -4,6 +4,8 @@
 
 Flutter Project PAS XI DKV B SMK Negeri 4 Malang
 
+<p>
+    
 ## Project Overview
 
 HardwareExplorer adalah aplikasi Flutter yang dibuat sebagai media belajar tentang dasar-dasar hardware komputer. Project ini dibuat untuk kebutuhan PJBL di SMK, dengan tujuan supaya siswa bisa belajar komponen komputer lewat tampilan yang lebih interaktif dan mudah dipahami.
