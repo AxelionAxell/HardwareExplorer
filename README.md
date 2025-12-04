@@ -1,3 +1,5 @@
+<div align="center">
+    
 # HardwareExplorer
 
 Flutter Project PAS XI DKV B SMK Negeri 4 Malang
@@ -5,9 +7,12 @@ Flutter Project PAS XI DKV B SMK Negeri 4 Malang
 ## Project Overview
 
 HardwareExplorer adalah aplikasi Flutter yang dibuat sebagai media belajar tentang dasar-dasar hardware komputer. Project ini dibuat untuk kebutuhan PJBL di SMK, dengan tujuan supaya siswa bisa belajar komponen komputer lewat tampilan yang lebih interaktif dan mudah dipahami.
-Di dalam aplikasi ini, pengguna bisa memahami berbagai bagian komputer seperti CPU, RAM, Storage, Input/Output, sampai jaringan dasar. Semua materi dibuat ringkas tapi jelas, jadi cocok buat pemula yang baru mulai kenal dunia komputer.
-Selain materi, ada juga fitur quiz yang soalnya selalu diacak, jadi pengguna bisa latihan tanpa sekadar menghafal. UI-nya juga dibuat simpel dan modern biar nyaman dipakai, dan ada fitur chat AI yang bisa bantu jawab pertanyaan tentang hardware komputer.
-Singkatnya, HardwareExplorer hadir sebagai alat belajar yang lebih praktis, menyenangkan, dan bisa dipakai siapa aja yang pengen belajar hardware dari nol.
+
+Di dalam aplikasi ini, pengguna bisa mengenal berbagai bagian komputer seperti CPU, RAM, Storage, Input/Output, sampai jaringan dasar. Semua materi dibuat ringkas tapi jelas, jadi cocok banget buat pemula yang baru mulai ngerti dunia komputer.
+
+Selain materi, ada juga fitur quiz yang soalnya selalu diacak, jadi pengguna bisa latihan tanpa sekadar menghafal. UI-nya juga dibuat simpel dan modern biar nyaman dipakai, ditambah fitur Chat AI yang bisa bantu jawab pertanyaan seputar hardware komputer.
+
+Singkatnya, HardwareExplorer hadir sebagai alat belajar yang lebih praktis, menyenangkan, dan cocok dipakai siapa aja yang pengen belajar hardware dari nol.
 
 ## Fitur & Manfaat Utama
 
@@ -84,6 +89,14 @@ Contributions are welcome! Here's how you can contribute:
 ## License Information
 
 This project does not currently have a specified license. All rights are reserved by the owner.
+
+## Contact
+
+Banyu Sejati (AxelionAxell) - [Instagram](https://www.instagram.com/axelionnaxell/) - banyusejati14@gmail.com
+
+Project Link: [Hardware Exploler](https://github.com/AxelionAxell/HardwareExplorer)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
 
