@@ -241,7 +241,7 @@ class _ChatSupportPageState extends State<ChatSupportPage> {
   }
 
   Future<String> _callGeminiApi(String prompt) async {
-    const apiKey = "AIzaSyC7KehXDNGvD2K6Qf7mF-Q7IyjEl6jCz_8";
+    const apiKey = "none;
 
     if (apiKey.isEmpty) return "API Key belum diatur.";
 
